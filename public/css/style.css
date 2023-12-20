@@ -141,3 +141,8 @@ footer ul li a {
     opacity: 70%;
 }
 
+.chat-container {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
